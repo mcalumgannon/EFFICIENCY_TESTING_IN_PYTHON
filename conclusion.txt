@@ -1,0 +1,11 @@
+indented_if_statement: Time taken: 94.1163513660430908203125 seconds
+
+guard_clause: Time taken: 136.01149654388427734375 seconds
+
+in conclusion guard clause seems to be slower however this was with the function repeating 30,000,000 times.
+
+indented_if_statement: Time taken: 0.0130007266998291015625 seconds
+
+guard_clause: Time taken: 0.01700115203857421875 seconds
+
+this was with the function repeating 3,000 times, any lower than this and the results were too inconsistent

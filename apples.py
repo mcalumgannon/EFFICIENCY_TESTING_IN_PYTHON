@@ -1,0 +1,17 @@
+apples = [
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$0.99/lb", "texture": "Firm"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.09/lb", "texture": "Crunchy"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.19/lb", "texture": "Crisp"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.29/lb", "texture": "Juicy"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.39/lb", "texture": "Tender"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.49/lb", "texture": "Succulent"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.59/lb", "texture": "Mouthwatering"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$0.99/lb", "texture": "Crisp"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$0.99/lb", "texture": "Crunchy"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.99/lb", "texture": "Juicy"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.99/lb", "texture": "Firm"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$0.99/lb", "texture": "Crispy"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.19/lb", "texture": "Soft"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$0.99/lb", "texture": "Spongy"},
+    {"name": "Red Delicious", "color": "Red", "taste": "Sweet", "size": "Medium", "price": "$1.29/lb", "texture": "y"},
+]
